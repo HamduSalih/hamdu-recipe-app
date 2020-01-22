@@ -1,0 +1,4 @@
+black and white for fonts
+
+main: #8c3a0a
+shade: #ea6112
